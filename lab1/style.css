@@ -52,8 +52,8 @@ img {
 p.two {
 text-indent: 40px;
 }
-p.one {
-  padding-bottom: 25px;
+.padbottomdiv {
+  padding-bottom: 50px;
 }
 .footer {
    position: fixed;
