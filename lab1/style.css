@@ -52,6 +52,9 @@ img {
 p.two {
 text-indent: 40px;
 }
+p.one {
+  padding-bottom: 25px;
+}
 .footer {
    position: fixed;
    left: 0;
